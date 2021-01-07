@@ -1,3 +1,3 @@
-# wasaby-polyfills
+# wasaby-polyfills 07.01.2021
 #
 Полифилы для устаревшых браузеров.
